@@ -12,10 +12,10 @@ Atualmente, o meu foco de crescimento técnico está na **automação de testes 
 
 ### O que você encontra aqui
 
-* **Projetos de Automação Web:** Testes E2E desenvolvidos com Playwright e JavaScript.
+
 * **Testes de API REST:** Validações de respostas, códigos de status e contratos via Postman.
 * **Gestão de Testes e BDD:** Mapeamento de cenários de teste escritos em Gherkin.
-* **Banco de Dados:** Consultas e validações de dados em SQL.
+* **Banco de Dados:** Consultas.
 
 ---
 
