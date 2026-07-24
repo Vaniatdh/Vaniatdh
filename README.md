@@ -2,11 +2,13 @@
 
 **🇵🇹 Sobre mim**
 
-Sou profissional de QA a residir em Portugal. Acredito fortemente que a junção da minha experiência prática com o **Mestrado em Comunicação de Marketing** alimenta a minha **busca contínua por excelência e aprendizado prático**. Por compreender a fundo a visão de marketing, as estratégias de marca e a negociação de produtos, mantenho o olhar atento em todo o ciclo do software, unindo empatia com o utilizador final, foco em resultados e facilidade de comunicação com os desenvolvedores.
+Sou profissional de QA a residir em Portugal, focada no acompanhamento de todo o ciclo do software. O meu objetivo principal é garantir o rigor na prevenção de falhas e a qualidade das entregas, unindo empatia com o utilizador final, foco em resultados e uma comunicação direta e fácil com os desenvolvedores.
 
-Tenho bagagem sólida em **testes manuais e funcionais**, desenvolvida em projetos no **Santander** (remoto). Para manter a minha bagagem técnica sempre ativa, exercitar a proatividade e evoluir constantemente, participo em **projetos freelance**, onde uno a vivência em regras de negócio complexas, consultas em SQL e metodologias ágeis.
+Tenho bagagem sólida em testes manuais e funcionais, desenvolvida em projetos no Santander (remoto). Para manter a minha parte técnica sempre ativa e evoluir constantemente, participo em projetos freelance onde trabalho com regras de negócio complexas, consultas em SQL e metodologias ágeis. Atualmente, estou a aprofundar o meu crescimento técnico em automação de testes web com Playwright, testes de API via Postman e especificação em BDD.
 
-Atualmente, o meu foco de crescimento técnico está na **automação de testes web com Playwright, testes de API via Postman e especificação em BDD**. Prestes a concluir o mestrado nos próximos meses, o meu objetivo é integrar equipas em Portugal, absorver a energia de cada projeto e fase ao lado da equipa e, juntos, trazer comunicação transparente, rigor na prevenção de falhas e um forte compromisso com a qualidade.
+Além da prática diária em QA, estou prestes a concluir o Mestrado em Comunicação de Marketing nos próximos meses. Essa combinação traz-me uma visão muito prática de negócio, estratégias de marca e negociação de produtos, o que ajuda bastante na hora de entender o produto como um todo e defender as necessidades do utilizador.
+
+O meu objetivo é integrar equipas em Portugal, absorver a energia de cada projeto e fase ao lado da equipa e, juntos, trazer uma comunicação transparente e um forte compromisso com a qualidade.
 
 ---
 
