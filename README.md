@@ -15,7 +15,7 @@ Atualmente, o meu foco de crescimento técnico está na **automação de testes 
 
 * **Testes de API REST:** Validações de respostas, códigos de status e contratos via Postman.
 * **Gestão de Testes e BDD:** Mapeamento de cenários de teste escritos em Gherkin.
-* **Banco de Dados:** Consultas.
+* **Banco de Dados (SQL):** Consultas e validações de dados para suporte à execução de testes.
 
 ---
 
